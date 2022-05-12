@@ -37,7 +37,7 @@
 
 
 <img align="" alt="SwiftUi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
-<img src="https://user-images.githubusercontent.com/92788458/168023358-8e1c1b13-92ab-4940-b3b3-4ba4561f89e6.png" width="32" height="32">
+<img src="https://user-images.githubusercontent.com/92788458/168023358-8e1c1b13-92ab-4940-b3b3-4ba4561f89e6.png" width="32" height="32" align="left">
 <br />
 
 ---
