@@ -21,10 +21,8 @@
 ## I'm a Computer Engineering Student! :books:
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning C++
-  <img src="icons8-c++-48.png"
-     alt="icons8-c++-48.png"
-     style="float: ; margin-right: 1px; width: 32px; height: 32px" />
+- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/92788458/168023358-8e1c1b13-92ab-4940-b3b3-4ba4561f89e6.png" width="32" height="32">
+
 - 👯 I’m looking to collaborate with other content creators
 - 🤖 2022 Goals: Develop my first automated AI
 - 😻 Check out my last iOS app: [lOOVe]()
@@ -39,10 +37,7 @@
 
 
 <img align="" alt="SwiftUi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
-
-<img src="icons8-c++-48.png"
-     alt="icons8-c++-48.png"
-     style="width: 32px; height: 32px" />
+<img src="https://user-images.githubusercontent.com/92788458/168023358-8e1c1b13-92ab-4940-b3b3-4ba4561f89e6.png" width="32" height="32">
 <br />
 
 ---
@@ -52,7 +47,6 @@
 <!-- YOUTUBE:START -->
 - [Contability](https://apps.apple.com/it/app/contability/id1618934016)
 - [lOOVe]()
-
 ---
 
 <details>
