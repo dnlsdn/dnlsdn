@@ -1,7 +1,7 @@
 I'm a Computer Engineering Student!
 
-• Projects
+• Projects\n
 [Contability](https://apps.apple.com/it/app/contability/id1618934016)
 
-• Programming Languages
+• Programming Languages\n
 C, Swift, Flutter, Java
