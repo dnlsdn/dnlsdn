@@ -1,7 +1,1 @@
-Hi! My name is Daniel Sadun and I'm a Computer Engineering Student at Roma Tre University
-
-• **Projects**: 
-[Contability](https://apps.apple.com/it/app/contability/id1618934016)
-
-• **Programming Languages**:
-C, Swift, Flutter, Java
+MSc student in Computer Engineering (Cybersecurity) @ Roma Tre. I work with Flutter/Dart, Java/Spring Boot, Docker and love maker projects (ESP32, 3D printing, robotics).
